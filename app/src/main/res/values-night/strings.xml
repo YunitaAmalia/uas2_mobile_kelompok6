@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="judul_music">Judul Music</string>
+    <string name="durasi">Durasi :</string>
+    <string name="category">Category</string>
+</resources>
